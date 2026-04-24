@@ -2,6 +2,8 @@
 
 A React-based web application built for a client to showcase student coursework and hands-on tasks completed during a full-stack development course. The site presents real exercises and projects covering core backend and frontend technologies in a clean, organized layout.
 
+🔗 View Live Project(https://coursework-showcase-app.netlify.app/)
+
 ---
 
 ## About The Project
