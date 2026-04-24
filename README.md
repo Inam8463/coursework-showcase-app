@@ -27,7 +27,7 @@ The application is fully built with **React** on the frontend, presenting conten
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 | Technology | Purpose |
 |---|---|
@@ -39,7 +39,7 @@ The application is fully built with **React** on the frontend, presenting conten
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -68,7 +68,7 @@ The app will open automatically at **http://localhost:3000**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 coursework-showcase-app/
@@ -84,7 +84,7 @@ coursework-showcase-app/
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Command | Description |
 |---|---|
